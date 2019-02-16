@@ -47,7 +47,7 @@ pygmentsStyle = "vs"
 [menu]
   [[menu.main]]
     url = "/contact/"
-    name = "contact"
+    name = "Contact"
     weight = 3
 
   # Footer
