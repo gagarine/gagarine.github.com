@@ -63,8 +63,4 @@ pygmentsStyle = "vs"
     url = "https://www.linkedin.com/in/simonperdrisat/"
     name = "Linkedin"
     weight = 3
-  [[menu.footer]]
-    url = "mailto:perdrisat@gmail.com"
-    name = "Contact"
-    weight = 4
 
