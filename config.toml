@@ -1,4 +1,4 @@
-baseurl = "https://perdrisat.com"
+baseurl = "http://perdrisat.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
