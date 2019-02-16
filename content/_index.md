@@ -8,3 +8,8 @@ I have been active in the web industry for the last 10 years, and an advocate fo
 
 After a BA in international relations, I am aiming to use my technical expertise, combined with a social science method, to approach these issues.
 
+
+# Articles
+
+incoming
+
