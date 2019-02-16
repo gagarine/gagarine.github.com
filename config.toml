@@ -61,14 +61,15 @@ pygmentsStyle = "vs"
     name = "GitHub"
     weight = 1
   [[menu.footer]]
-    url = "https://www.linkedin.com/in/simonperdrisat/"
-    name = "Linkedin"
-  [[menu.footer]]
-    url = "/posts/index.xml"
-    name = "RSS"
+    url = "https://twitter.com/gagarine"
+    name = "Twitter"
     weight = 2
   [[menu.footer]]
-    url = "perdrisat@gmail.com"
-    name = "Contact"
+    url = "https://www.linkedin.com/in/simonperdrisat/"
+    name = "Linkedin"
     weight = 3
+  [[menu.footer]]
+    url = "mailto:perdrisat@gmail.com"
+    name = "Contact"
+    weight = 4
 
