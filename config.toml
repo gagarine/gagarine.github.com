@@ -6,12 +6,17 @@ title = "Perdrisat Simon"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "simplehugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+pygmentsoptions = "linenos=table"
+pygmentsStyle = "vs"
+
+#disqusShortname = ""
+#googleAnalytics = ""
+
+
 
 [Params]
   subtitle = "this and that"
@@ -20,75 +25,50 @@ pygmentCodeFences = true
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
-  comments = true
+  comments = false
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
 
 [Author]
   name = "Perdrisat Simon"
   email = "perdrisat@gmail.com"
-  #facebook = ""
-  #googleplus = "" # or xxxxxxxxxxxxxxxxxxxxx
   gitlab = "gagarine"
   github = "gagarine"
   twitter = "gagarine"
-  #reddit = "username"
   linkedin = "username"
-  #xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  #snapchat = "username"
-  #instagram = "username"
-  #youtube = "user/username" # or channel/channelname
-  #soundcloud = "username"
-  #spotify = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #keybase = "username"
 
 
-[[menu.main]]
-    name = "Blog"
-    url = ""
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Menu
+[menu]
+  # Header
+  [[menu.main]]
+    url = "/"
+    name = "home"
     weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
+  [[menu.main]]
+    url = "/contact/"
+    name = "contact"
     weight = 3
 
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+  # Footer
+  [[menu.footer]]
+    url = "https://github.com/gagarine"
+    name = "GitHub"
     weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+  [[menu.footer]]
+    url = "https://www.linkedin.com/in/simonperdrisat/"
+    name = "Linkedin"
+  [[menu.footer]]
+    url = "/posts/index.xml"
+    name = "RSS"
     weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
+  [[menu.footer]]
+    url = "perdrisat@gmail.com"
+    name = "Contact"
     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3

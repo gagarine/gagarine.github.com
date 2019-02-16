@@ -1,9 +1,10 @@
-## Front Page Content
+---
+title: 
+---
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+I am interested in the social and political implications of technoloy, and in particular of digital technologies. I believe that technology can and should be an emancipatory force but that it requires a relevant contextualization and a multidisciplinary approach.
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+I have been active in the web industry for the last 10 years, and an advocate for open technology. I have always been committed to exploring how my skills can be used to foster a more engaged and participatory relationship between people using technology, in the spirit of an open source culture.
+
+After a BA in international relations, I am aiming to use my technical expertise, combined with a social science method, to approach these issues.
+
