@@ -13,25 +13,38 @@ h3 {
     line-height: 1.2
 }
 
-a {
+h1 a,
+h1 a:visited,
+h2 a,
+h2 a:visited {
+    color: #444;
+}
+
+a, a:visited {
     text-decoration: none;
+    color:#0056b3;
 }
 
 a:hover {
     text-decoration: underline;
 }
 
-div.header h1 {
-    padding-top: 0;
-    padding-bottom: 8px;
-    margin-bottom: 24px;
-    font-size: 18px;
-    font-weight: 400;
+
+div.header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
     border-bottom: 1px solid #e9e9e9;
 }
 
-.header-menu {
-    float: right;
+.site-title {
+    margin-top: 0;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.header-menu a {
+    margin-left: 20px;
 }
 
 ul.pagination {

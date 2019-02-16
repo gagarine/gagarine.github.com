@@ -2,7 +2,7 @@ baseurl = "http://perdrisat.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Perdrisat Simon"
+title = "Simon Perdrisat"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -30,7 +30,7 @@ pygmentsStyle = "vs"
 
 
 [Author]
-  name = "Perdrisat Simon"
+  name = "Simon Perdrisat"
   email = "perdrisat@gmail.com"
   gitlab = "gagarine"
   github = "gagarine"
@@ -45,11 +45,6 @@ pygmentsStyle = "vs"
 
 # Menu
 [menu]
-  # Header
-  [[menu.main]]
-    url = "/"
-    name = "home"
-    weight = 1
   [[menu.main]]
     url = "/contact/"
     name = "contact"
