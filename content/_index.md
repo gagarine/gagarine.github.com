@@ -11,5 +11,3 @@ After a BA in international relations, I am aiming to use my technical expertise
 
 # Articles
 
-incoming
-

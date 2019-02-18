@@ -9,4 +9,15 @@
     {{ .Content }}
 </article>
 
+<ul>
+    {{ range where .Data.Pages "Type" "post"}}
+    <li>
+        <a href="{{ .RelPermalink }}">
+            {{- .Title }}
+        </a>
+    </li>
+    {{ end }}
+</ul>
+
+
 {{ end }}
