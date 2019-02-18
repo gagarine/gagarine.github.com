@@ -1,33 +1,14 @@
-baseurl = "http://perdrisat.com"
-contentdir    = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
+baseURL = "http://perdrisat.com/"
+languageCode = "en-us"
 title = "Simon Perdrisat"
-canonifyurls  = true
 
-DefaultContentLanguage = "en"
+canonifyurls  = true
 theme = "simplehugo"
-metaDataFormat = "yaml"
+
 pygmentsUseClasses = true
 pygmentCodeFences = true
 pygmentsoptions = "linenos=table"
 pygmentsStyle = "vs"
-
-#disqusShortname = ""
-#googleAnalytics = ""
-
-
-
-[Params]
-  subtitle = "this and that"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = false
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
 
 [Author]
   name = "Simon Perdrisat"
@@ -38,12 +19,7 @@ pygmentsStyle = "vs"
   linkedin = "username"
 
 
-# Taxonomies
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-# Menu
+  # Menu
 [menu]
   [[menu.main]]
     url = "/contact/"
@@ -63,4 +39,3 @@ pygmentsStyle = "vs"
     url = "https://www.linkedin.com/in/simonperdrisat/"
     name = "Linkedin"
     weight = 3
-
