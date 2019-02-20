@@ -16,4 +16,7 @@ In this context, this research project examines Bitcoin as a movement that used 
 We will focus primarily on the developers, i.e. the people who participated in writing the source code for the Bitcoin software. The developers of the Bitcoin software designed and made available a software allowing the exchange of a digital currency among the users of this software. The source code defines the rules governing the system. The system is otherwise autonomous in the sense that, through an economic incentive game, they motivate the actors to provide the resources necessary for the functioning of a decentralized network, thus dispensing with a central server.
 
 The developers, being the origin of a system, it is therefore particularly relevant to know their motivations. Consequently, we can articulate our research question as follows:
-Are there political motivations behind the participation of developers in the development of the Bitcoin software source code?
+
+**Are there political motivations behind the participation of developers in the development of the Bitcoin software source code?**
+
+*This study is done but I'm not satisfied yet with the form. I want to make a sharper version. Please contact me to get a copy of the current version.*
