@@ -71,6 +71,10 @@ div.footer a {
     font-size: 14px;
 }
 
+figure {
+    margin: 0;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
