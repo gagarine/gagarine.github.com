@@ -4,11 +4,11 @@ date: 2022-01-15T21:00:58+01:00
 ---
 
 
-# Abstract
+## Abstract
 
 In the current context of growing uncertainty about the future, researchers began investigating how future visions shape the present; how sociotechnical imaginaries actively shape our society. Today, the performativity of imagined futures is well understood. However, how particular visions come about and why they become performative is understudied. Using the theoretical framework of “technique of futuring” and “dramaturgical regimes”, this case study analyzes how Kleros stakeholders articulated and communicate discourse about the Kleros technology’s potentialities to better understand how imaginaries emerge. Exploratory research and participatory observations with dramaturgic analysis reveal that Kleros captures attention and financial capital, as well as builds communities using future narratives and imaginaries rather than the actual capabilities or practical usage of the technology. Specific discourse structures allow this imagined future to become authoritative while the technological artifact primarily serves the staging of this imagined future.
 
-# Summary
+## Summary
 In the current context of growing uncertainty about the future, researchers began investigating how future visions shape the present; how sociotechnical imaginaries actively shape our society. Today, the performativity of imagined futures is well understood. However, how particular visions come about and why they become performative is understudied.
 
 With the aim of examining future imaginaries, their emergence and impact, this thesis is articulated around the case of a specific project with a technology in the making, Kleros, a recent blockchain- based decentralized dispute resolution protocol. The thesis’s central hypothesis is that such projects are able to capture attention and financial capital, as well as build communities, by using future narratives and imaginaries more than actual capabilities or usage of the technology.
