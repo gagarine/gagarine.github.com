@@ -6,6 +6,6 @@ I am interested in the social and political implications of technology, and in p
 
 I have been active in the web industry for the last 10 years, and an advocate for open technology. I have always been committed to exploring how my skills can be used to foster a more engaged and participatory relationship between people using technology, in the spirit of an open source culture.
 
-After a BA in international relations (Geneva University), I am aiming to use my technical expertise, combined with a social science method, to approach these issues. I'm curently achieving a MA in technology govenance (TalTech, Estonia).
+After a BA in international relations (Geneva University) and an MA in Technology Governance and Innovation (TalTech, Estonia), I am aiming to use my technical expertise, combined with social science methods, to approach these issues at a governance and practical level.
 
 # Articles and Books
