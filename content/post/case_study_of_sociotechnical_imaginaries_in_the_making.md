@@ -1,5 +1,5 @@
 ---
-title: "Case study of sociotechnical imaginaries in the making: kleros decentralized dispute resolution protocol"
+title: "Case study of sociotechnical imaginaries in the making: kleros decentralized dispute resolution protocol (Master Thesis)"
 date: 2022-01-15T21:00:58+01:00
 ---
 
