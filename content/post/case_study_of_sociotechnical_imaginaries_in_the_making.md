@@ -25,3 +25,10 @@ The thesis’s main findings are how Kleros is able to successfully promote thei
 Projects such as Kleros can appear innocuous due to their lack of concrete usage and limited reach in society at large and outside of their specific communities. However, as this case study demonstrates, they can develop the capabilities to become performative and thus contribute to shaping the present, and therefore the future, independently of their actual usage, or even despite a plain lack of traction as an actual technology.
 
 
+[**Download (open-access)** (pdf)](https://digikogu.taltech.ee/et/Download/7785d4b8-f972-4ea5-b39a-21ba17ebf97b)
+
+
+*[Official info](https://digikogu.taltech.ee/en/Item/18f73cda-ee36-454a-b631-29f88f1fc673)*
+
+
+
